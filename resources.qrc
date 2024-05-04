@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/delete_icon.svg</file>
+        <file>icons/math_square_icon.svg</file>
+        <file>icons/close_icon.svg</file>
+        <file>icons/fullscreen_exit_icon.svg</file>
+        <file>icons/fullscreen_icon.svg</file>
+        <file>icons/minimize_icon.svg</file>
+        <file>icons/table_view_icon.svg</file>
+        <file>icons/content_copy_icon.svg</file>
+        <file>icons/remove_icon.svg</file>
+        <file>icons/plus_minus_icon.svg</file>
+        <file>icons/10x_icon.png</file>
+        <file>icons/factorial_icon.png</file>
+        <file>icons/square_root_icon.png</file>
+        <file>icons/square_root_y_icon.png</file>
+        <file>icons/square_icon.png</file>
+        <file>icons/square_y_icon.png</file>
+    </qresource>
+</RCC>
