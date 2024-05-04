@@ -1,1 +1,1 @@
-# Simple calculator for Windows on Qt6 C++
+Simple calculator for Windows on Qt6 C++
